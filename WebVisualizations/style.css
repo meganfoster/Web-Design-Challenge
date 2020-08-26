@@ -1,6 +1,22 @@
 /*
  * Absolute Position: anchors element to the first element (overall box)
  */
+.trial {
+  background: rgb(131, 162, 192);
+}
+
+.card {
+  background: white;
+}
+
+.ml-1 {
+  margin-top: ($spacer * 1.5) !important;
+  margin-left: ($spacer * 1.5) !important;
+}
+
+.p-3 {
+  padding: ($spacer * 1) !important;
+}
 
 .box-set {
   position: relative;
@@ -8,14 +24,13 @@
   background: darkgray;
 }
 
-/* .box {
-  /* Absolute Position */
-  /* position: absolute;
-  width: 150px;
-  height: 150px;
-  background: #2db34a;
+.play {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  background: white;
   border: 2px solid black;
-} */ */
+}
 
 /* Box rules: percentages define anchors (i.e. position of each box relative to enclosing box) */
 
