@@ -17,6 +17,12 @@ body{
   background: white;
 }
 
+.seagreen {
+  color: teal;
+  font-family: serif;
+  font-weight: bolder;
+}
+
 .navbar {
   background: white;
 }
