@@ -2,10 +2,22 @@
  * Absolute Position: anchors element to the first element (overall box)
  */
 .trial {
-  background: rgb(131, 162, 192);
+  background: lightgrey;
 }
 
 .card {
+  background: white;
+}
+
+body{
+  background-color: lightgray !important;
+}
+
+.container-bg {
+  background: white;
+}
+
+.navbar {
   background: white;
 }
 
