@@ -18,13 +18,23 @@ body{
 }
 
 .seagreen {
-  color: teal;
+  color: rgb(1, 146, 146);
   font-family: serif;
   font-weight: bolder;
 }
 
 .navbar {
   background: white;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+.teal {
+  background: rgb(1, 146, 146);
+}
+
+.white-font{
+  color: white
 }
 
 .ml-1 {
